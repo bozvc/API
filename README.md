@@ -13,6 +13,7 @@
 		Paquetes requeridos: AutoMapper 10.1.1, 
 		AutoMapper.Extensions.Microsoft.DependencyInjection 8.1,
 		Microsoft.EntityFrameworkCore.SqlServer 3.1.9 .
+		Connection string para la base de datos se configura en el archivo appsettings.json
 
 ## Endpoints
 
