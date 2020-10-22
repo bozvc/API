@@ -2,14 +2,14 @@
 
 ## Introduction 
 
-		El servicio de arrendadora permitir leer las lista de automobiles disponibles para rentar, 
-		leer la lista de ordenes de alquiler de autos, crear una orden de alquiler para un automobil 
-		disponible, leer las lista de categorias (tipos ex. van, sedan , etc.)  de automobiles y 
-		actualizar, crear o eliminar categorias.
+		El servicio de arrendadora permitir leer la lista de automóviles disponibles para rentar, 
+		leer la lista de ordenes de alquiler de autos, crear una orden de alquiler para un automóvil 
+		disponible, leer la lista de categorías (tipos ex. van, sedan , etc.)  de automóviles y 
+		actualizar, crear o eliminar categorías.
 
 ## Overview
 
-		El framework utilizado es ASP .NET Core 3.1, basde de datos MSSQL Express y editor VS Code.
+		El framework utilizado es ASP .NET Core 3.1, base de datos MSSQL Express y editor VS Code.
 		Paquetes requeridos: AutoMapper 10.1.1, 
 		AutoMapper.Extensions.Microsoft.DependencyInjection 8.1,
 		Microsoft.EntityFrameworkCore.SqlServer 3.1.9 .
